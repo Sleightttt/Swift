@@ -1,3 +1,3 @@
 # Swift
 
-Swift Video Walkthrough
+Manga App
