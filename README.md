@@ -1,3 +1,3 @@
 # Swift
 
-Manga App
+Manga App made with React Native
